@@ -1,0 +1,9 @@
+upstream: https://github.com/kurtcagle/holon-graph-shacl
+commit:   fa7fc47c45310b98a4acc6df66dd91795060d9dc
+message:  Create CNAME
+date:     2026-04-08
+pinned:   2026-04-23
+
+The three .ttl files in this directory are verbatim copies of the upstream
+files at the commit above. Never modify them in place. If you need a variant,
+create a new directory: ally/models/vNN-<kebab-name>/.
